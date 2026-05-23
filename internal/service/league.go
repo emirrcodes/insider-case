@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/ahmetemirarslan/insider-backend-case/internal/domain"
-	"github.com/ahmetemirarslan/insider-backend-case/internal/repository"
+	"github.com/emirrcodes/insider-case/internal/domain"
+	"github.com/emirrcodes/insider-case/internal/repository"
 	"github.com/jackc/pgx/v5"
 )
 

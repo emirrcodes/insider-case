@@ -3,7 +3,7 @@ package service
 import (
 	"testing"
 
-	"github.com/ahmetemirarslan/insider-backend-case/internal/domain"
+	"github.com/emirrcodes/insider-case/internal/domain"
 )
 
 func TestCalculateStandingsSortsByPremierLeagueRules(t *testing.T) {

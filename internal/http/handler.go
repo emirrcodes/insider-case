@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/ahmetemirarslan/insider-backend-case/internal/service"
+	"github.com/emirrcodes/insider-case/internal/service"
 	"github.com/gin-gonic/gin"
 )
 

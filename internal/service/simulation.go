@@ -4,7 +4,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/ahmetemirarslan/insider-backend-case/internal/domain"
+	"github.com/emirrcodes/insider-case/internal/domain"
 )
 
 type MatchSimulator interface {

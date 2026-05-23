@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ahmetemirarslan/insider-backend-case/internal/config"
-	httpapi "github.com/ahmetemirarslan/insider-backend-case/internal/http"
-	"github.com/ahmetemirarslan/insider-backend-case/internal/repository/postgres"
-	"github.com/ahmetemirarslan/insider-backend-case/internal/service"
+	"github.com/emirrcodes/insider-case/internal/config"
+	httpapi "github.com/emirrcodes/insider-case/internal/http"
+	"github.com/emirrcodes/insider-case/internal/repository/postgres"
+	"github.com/emirrcodes/insider-case/internal/service"
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v5/pgxpool"
 )

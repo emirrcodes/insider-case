@@ -1,4 +1,4 @@
-module github.com/ahmetemirarslan/insider-backend-case
+module github.com/emirrcodes/insider-case
 
 go 1.23
 

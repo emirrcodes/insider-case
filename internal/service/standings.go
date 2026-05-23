@@ -3,7 +3,7 @@ package service
 import (
 	"sort"
 
-	"github.com/ahmetemirarslan/insider-backend-case/internal/domain"
+	"github.com/emirrcodes/insider-case/internal/domain"
 )
 
 func CalculateStandings(teams []domain.Team, matches []domain.Match) []domain.Standing {
